@@ -390,7 +390,7 @@ Dit exemplaar verwijderen verwijdert alle gedeelde exemplaren in andere sites.&a
     <value xml:space="preserve">Het bestand {0} overschrijdt de hoeveelheid schijfruimte die op dit moment voor u beschikbaar is. Neem contact op met uw provider over vragen betreffende de schijfruimte die voor uw website beschikbaar is.</value>
   </data>
   <data name="Dismiss.Text">
-    <value xml:space="preserve">Ontslaan</value>
+    <value xml:space="preserve">Sluiten</value>
   </data>
   <data name="DismissNotification.Text">
     <value xml:space="preserve">Deze kennisgeving ontslaan</value>
@@ -768,7 +768,7 @@ Dit exemplaar verwijderen verwijdert alle gedeelde exemplaren in andere sites.&a
     <value xml:space="preserve">Help </value>
   </data>
   <data name="Home.Text">
-    <value xml:space="preserve">Thuis</value>
+    <value xml:space="preserve">Home</value>
   </data>
   <data name="HostRootFolder.Name">
     <value xml:space="preserve">Host hoofdmap</value>
