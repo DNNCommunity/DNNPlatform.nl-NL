@@ -121,7 +121,7 @@
     <value xml:space="preserve">Neem Contact met ons op</value>
   </data>
   <data name="//Home.String" lastModified="2018-07-20 14:52:24">
-    <value xml:space="preserve">Thuis</value>
+    <value xml:space="preserve">Home</value>
   </data>
   <data name="//Host.String">
     <value xml:space="preserve">Applicatie</value>
@@ -252,12 +252,12 @@
   <data name="403_3.Error">
     <value xml:space="preserve">    &amp;lt;div style="height: 100%; width: 90%;"&amp;gt;
         &amp;lt;h3&amp;gt;
-            DotNetNuke Configuratie fout&amp;lt;/h3&amp;gt;
+            DNN Configuratie fout&amp;lt;/h3&amp;gt;
         &amp;lt;p&amp;gt;
             {0}&amp;lt;/p&amp;gt;
         &amp;lt;p&amp;gt;
-            Uw DotNetNuke installatie lijkt een probleem met de beveiligingsinstellingen te
-            hebben (waarschijnlijk machtigingen). DotNetNuke heeft uitgebreide file upload mogelijkheden
+            Uw DNN installatie lijkt een probleem met de beveiligingsinstellingen te
+            hebben (waarschijnlijk machtigingen). DNN heeft uitgebreide file upload mogelijkheden
             voor de inhoud, modules en skins. Deze functies vereisen aangepaste beveiligingsinstellingen
             zodat de applicatie in staat is om te maken en te verwijderen bestanden in uw website.&amp;lt;/p&amp;gt;
         &amp;lt;p&amp;gt;
@@ -299,7 +299,7 @@
         &amp;lt;p style="color: red; font-weight: bold;"&amp;gt;
             Domeinnaam {0} bestaat niet in de database&amp;lt;/p&amp;gt;
         &amp;lt;p&amp;gt;
-            DotNetNuke 
+            DNN 
             ondersteunt meerdere websites vanuit een enkele applicatie. Om dit goed te 
             kunnen laten werken, wordt de opgevraagde URL omgezet in een zogenaamde PortalId 
             uit de PortalAlias tabel in de database. Dit proces werkt als volgt:&amp;lt;/p&amp;gt;
